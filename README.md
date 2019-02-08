@@ -5,4 +5,4 @@ Dades:
 
 https://www.sport.es/es/resultados/la-liga/clasificacion/
 
-# Javier Herreras Delgado
+Javier Herreras Delgado
