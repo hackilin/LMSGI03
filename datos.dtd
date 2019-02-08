@@ -1,0 +1,7 @@
+<!ELEMENT equipos (equipo)*>
+<!ELEMENT equipo (nombre|ganados|perdidos|empatados|puntos)*>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT ganados (#PCDATA)>
+<!ELEMENT perdidos (#PCDATA)>
+<!ELEMENT empatados (#PCDATA)>
+<!ELEMENT puntos (#PCDATA)>
